@@ -1,0 +1,11 @@
+.wrapper{
+    padding: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 14px;
+}
+.wrapper div{
+    width: 250px;
+    padding: 14px;
+    border: 1px solid #ddd;
+}
